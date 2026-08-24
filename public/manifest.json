@@ -1,0 +1,12 @@
+{
+  "name": "Chancelière Shop",
+  "short_name": "Chancelière",
+  "description": "Boutique en ligne de vente de baskets",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A0A0A",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
