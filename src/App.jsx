@@ -16,7 +16,7 @@ import AdminSales from './pages/admin/AdminSales'
 import ProtectedRoute from './router/ProtectedRoute'
 import AdminRoute from './router/AdminRoute'
 import LivreurRoute from './router/LivreurRoute'
-import LivreurDashboard from './pages/livreur/LivreurDashboard'
+import LivreurDashboard from './pages/Livreur/LivreurDashboard'
 
 export default function App() {
   return (
